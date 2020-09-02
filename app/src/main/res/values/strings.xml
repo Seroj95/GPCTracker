@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPCTracker</string>
+    <string name="dialog_title">Distance</string>
+    <string name="dialog_button">Ready</string>
+</resources>
